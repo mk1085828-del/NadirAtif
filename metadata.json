@@ -1,0 +1,9 @@
+{
+  "name": "Nadir AI",
+  "description": "Next-generation AI assistant featuring intelligent multilingual conversation, animated orb voice call mode, image generation studio, and visual camera understanding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
